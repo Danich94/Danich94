@@ -3,29 +3,22 @@
 <h4 align="center"><samp> Добро пожаловать в мой Github!</samp></h4>
 </pre>
 
-### О себе
+### Технологический стек
 <pre>
- <b>Технические навыки:</b> Работаю с основными методами машинного обучения в задачах обучения с учителем и без учителя <br /> (задачи регрессии, классификации, кластеризации).
- <b>Работа с библиотеками в области обработки, анализа и визуализации данных на языке Python:</b> <br /> numpy, scipy, pandas, statsmodels, dask, scikit-learn, seaborn, matplotlib.
+ <b>Специализация:</b> Аналитик данных.
+ <b>Основной язык:</b> Python.
+ <b>Работа с библиотеками в области обработки, анализа и визуализации данных:</b> numpy, scipy, pandas, statsmodels, dask, scikit-learn, seaborn, matplotlib.
  <b>Работа с BI-системами и системами визуализации данных:</b> PowerBI, Kibana.
- <b>Опыт работы с базами данных:</b> MSSQL, Oracle, ClickHouse, MongoDB, Elasticsearch.
- <b>Работа с инструментами для разработки и развертывания:</b> Docker, Git.
+ <b>аботы с базами данных:</b> MSSQL, Oracle, ClickHouse, Elasticsearch, MongoDB.
+ <b>Работа с дополнительными инструментами:</b> Git, Docker.
 </pre>
 
-<h3 align="center"><samp>Репозитории c проектами по машинному обучению и анализу данных.</samp></h3>
+<h3 align="center"><samp>Репозитории c проектами по анализу данных и машинному обучению.</samp></h3>
 
 <p width="100%" align="center">
 <a align="left" href="https://github.com/Danich94/OrangeChurnPrediction" title="OrangeChurnPrediction">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Danich94&repo=OrangeChurnPrediction&theme=gotham"></a>
 <h4 align="left"><samp>Прогнозирование оттока клиентов телеком компании</samp>
-</h4>
-<br>
-<br>
-<br>
-
-<a align="left" href="https://github.com/Danich94/CurrencyPrediction" title="CurrencyPrediction">
-<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Danich94&repo=CurrencyPrediction&theme=gotham"></a>
-<h4 align="left"><samp>Прогнозирование курса валюты с использованием временных рядов</samp>
 </h4>
 <br>
 <br>
@@ -41,7 +34,15 @@
 
 <a align="left" href="https://github.com/Danich94/LTVCount" title="LTVCount">
 <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Danich94&repo=LTVCount&theme=gotham"></a>
-<h4 align="left"><samp>Подсчет LTV(Lifetime value) пользователей</samp>
+<h4 align="left"><samp>Расчет LTV(Lifetime value) пользователей</samp>
+</h4>
+<br>
+<br>
+<br>
+
+<a align="left" href="https://github.com/Danich94/CurrencyPrediction" title="CurrencyPrediction">
+<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Danich94&repo=CurrencyPrediction&theme=gotham"></a>
+<h4 align="left"><samp>Прогнозирование курса валюты с использованием временных рядов</samp>
 </h4>
 <br>
 <br>
