@@ -7,10 +7,10 @@
 <pre>
  <b>Специализация:</b> Аналитик данных.
  <b>Основной язык:</b> Python.
- <b>Работа с библиотеками в области обработки, анализа и визуализации данных:</b> numpy, scipy, pandas, statsmodels, dask, scikit-learn, seaborn, matplotlib.
- <b>Работа с BI-системами и системами визуализации данных:</b> PowerBI, Kibana.
- <b>аботы с базами данных:</b> MSSQL, Oracle, ClickHouse, Elasticsearch, MongoDB.
- <b>Работа с дополнительными инструментами:</b> Git, Docker.
+ <b>Библиотеки в области обработки, анализа и визуализации данных:</b> numpy, scipy, pandas, statsmodels, dask, scikit-learn, seaborn, matplotlib.
+ <b>BI-системы и системы визуализации данных:</b> PowerBI, Kibana.
+ <b>Базы данных:</b> MSSQL, Oracle, ClickHouse, Elasticsearch, MongoDB.
+ <b>Дополнительные инструменты:</b> Git, Docker.
 </pre>
 
 <h3 align="center"><samp>Репозитории c проектами по анализу данных и машинному обучению.</samp></h3>
